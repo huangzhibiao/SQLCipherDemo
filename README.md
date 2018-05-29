@@ -15,6 +15,6 @@ SQLITE_API int sqlite3_key(sqlite3 *db, const void *pKey, int nKey);
 SQLITE_API int sqlite3_rekey(sqlite3 *db, const void *pKey, int nKey);      
 #endif   
 效果如图：   
-![SQLCipherDemo](https://img.jishux.com/jishux/2017/09/17/627c8a98192ebec5ef06ec83ecec1c30fc87e597_.jpg "修改效果图")   
+![SQLCipherDemo](https://img.jishux.com/jishux/2017/09/17/627c8a98192ebec5ef06ec83ecec1c30fc87e597_.jpg "修改后的效果图")   
     
 最后，手动导入SQLCipherDemo中BG目录下的代码到自己的工程中即可,使用步骤请参考demo.   
